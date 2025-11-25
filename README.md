@@ -1,2 +1,1 @@
-# Choley_Fantasy
-A website about me
+npm install -g firebase-tools
